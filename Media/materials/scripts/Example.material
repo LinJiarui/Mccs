@@ -312,6 +312,7 @@ material Examples/RustySteel
 	{
 		pass
 		{
+			vertex_program_ref Instancing { }
 
 			texture_unit
 			{
